@@ -2,13 +2,6 @@
 
 ## A Collaborative Game writing exercise
 
-- List item
-- Another list item
-
-**BOLD**
-
-_Italic_
-
 ## Story time!
 
 Our character wakes up in a forest with no memory of who they are and how they got there.
