@@ -5,6 +5,6 @@
 - List item
 - Another list item
 
-**BOLD or italic**
+**BOLD**
 
-_Whichever the previous is not_
+_Italic_
