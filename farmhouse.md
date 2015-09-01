@@ -8,5 +8,7 @@ You see a farmhouse in the distance. It's getting cold, you are hungry, tired an
 *You open the door, peak in, it closes behind you. It's very hot due to the large oven in the middle of the room. You are not a guest, you are dinner. Into the oven you go. Bye Bye
 
 
+If you chose Door one you have been having a great time hanging out by the fireplace, drinking beer and eating pizza.
+
 
 
